@@ -9,7 +9,7 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
+/*
 html {
     color: #222;
     font-size: 1em;
@@ -21,7 +21,7 @@ html {
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
-
+/*
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -35,7 +35,7 @@ html {
 /*
  * A better looking default horizontal rule
  */
-
+/*
 hr {
     display: block;
     height: 1px;
@@ -49,7 +49,7 @@ hr {
  * Remove the gap between images, videos, audio and canvas and the bottom of
  * their containers: h5bp.com/i/440
  */
-
+/*
 audio,
 canvas,
 img,
@@ -61,7 +61,7 @@ video {
 /*
  * Remove default fieldset styles.
  */
-
+/*
 fieldset {
     border: 0;
     margin: 0;
@@ -71,7 +71,7 @@ fieldset {
 /*
  * Allow only vertical resizing of textareas.
  */
-
+/*
 textarea {
     resize: vertical;
 }
